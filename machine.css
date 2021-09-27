@@ -1,0 +1,36 @@
+@font-face {
+ font-family: font;
+  src: url(font1.ttf);
+}
+body {
+  background-color: #adb1b0;
+}
+
+input {
+
+  height: 50px;
+  width: 50px;
+  background-color: #82b8ad;
+  color: white;
+}
+input:hover{
+  background-color: #648181;
+}
+
+#clear1{
+
+  height: 30px;
+  width: 50px;
+  background-color: #82b8ad;
+  color: white;
+}
+
+h1{
+   font-family: font;
+   color: white;
+}
+
+p {
+ font-family: font;
+ color: white;
+}
